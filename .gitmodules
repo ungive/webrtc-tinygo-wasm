@@ -1,0 +1,12 @@
+[submodule "deps/webrtc"]
+	path = deps/webrtc
+	url = https://github.com/vonas/webrtc
+[submodule "deps/ice"]
+	path = deps/ice
+	url = https://github.com/vonas/ice
+[submodule "deps/dtls"]
+	path = deps/dtls
+	url = https://github.com/vonas/dtls
+[submodule "deps/transport"]
+	path = deps/transport
+	url = https://github.com/vonas/transport
