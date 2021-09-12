@@ -10,8 +10,6 @@ require (
 replace (
 	github.com/pion/dtls/v2 v2.0.9 => ./deps/dtls
 	github.com/pion/ice/v2 => ./deps/ice
-	// github.com/pion/rtp => ../../../../../git/vonas/rtp
-	github.com/pion/randutil => ../../../../../git/vonas/randutil
 	github.com/pion/transport => ./deps/transport
 	github.com/pion/webrtc/v3 => ./deps/webrtc
 )
